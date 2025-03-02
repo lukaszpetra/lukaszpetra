@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C# and .NET, exploring ASP.NET MVC, WCF, WPF<br>🎯 Goals: Master the technologies I'm working with and never stop learning.  <br>🎲 Fun fact: My code works perfectly… until I show it to someone :D</p>
+<p align="left">📚 I'm currently learning C# and .NET, exploring ASP.NET MVC, WCF, WPF<br>🎯 Goals: Master the technologies I'm working with and never stop learning.  <br>🎲 Fun fact: My code works perfectly… until I show it to someone `:smiley:`</p>
 
 ###
 
